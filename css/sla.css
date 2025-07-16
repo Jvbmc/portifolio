@@ -175,6 +175,16 @@ h3.voltar:hover {
   transition: all 0.3s ease;
 }
 
+.abc {
+text-algin: center;
+font-size: 100px;
+}
+
+a.abc {
+text-algin: center;
+font-size: 100px;
+}
+
 html {
   scroll-behavior: smooth;
 }
