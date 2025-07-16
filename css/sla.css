@@ -175,12 +175,12 @@ h3.voltar:hover {
   transition: all 0.3s ease;
 }
 
-.abc {
+.abc p {
 text-algin: center;
 font-size: 100px;
 }
 
-a.abc {
+.abc a {
 text-algin: center;
 font-size: 100px;
 }
